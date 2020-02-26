@@ -1,0 +1,23 @@
+{
+  "packageDirectories": [
+    {
+      "path": "ws-claim",
+      "default": false
+    },
+    {
+      "path": "ws-inspection",
+      "default": false
+    },
+    {
+      "path": "ws-license",
+      "default": true
+    },
+    {
+      "path": "ws-core",
+      "default": false
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "47.0"
+}

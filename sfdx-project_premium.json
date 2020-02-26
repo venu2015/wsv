@@ -1,0 +1,15 @@
+{
+  "packageDirectories": [
+    {
+      "path": "ws-premium",
+      "default": true
+    },
+    {
+      "path": "ws-core",
+      "default": false
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "47.0"
+}
